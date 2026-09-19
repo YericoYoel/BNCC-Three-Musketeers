@@ -13,9 +13,9 @@
 - Interaktivitas berbasis JavaScript pada komponen utama.
 
 ## Contribution
-- **Anggota 1 (Project Initiator):** Inisialisasi repository, setup file HTML awal, dan manajemen project.
-- **Anggota 2 (Styling Engineer):** Membuat stylesheet `style.css` dan integrasi antarmuka.
-- **Anggota 3 (Script Engineer):** Membuat logika interaktif pada `script.js` dan integrasi skrip.
+- **Yerico Yoel Leonardo Moelyadi (Project Initiator):** Inisialisasi repository, setup file HTML awal, dan manajemen project.
+- **Daniello Nevan Ferrando (Styling Engineer):** Membuat stylesheet `style.css` dan integrasi antarmuka.
+- **Shawn Orleans Setiady (Script Engineer):** Membuat logika interaktif pada `script.js` dan integrasi skrip.
 
 ## What I Learned
 - Memahami alur kerja kolaborasi Git & GitHub (Branching, Pull Request, Merge).
