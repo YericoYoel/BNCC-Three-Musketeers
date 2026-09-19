@@ -1,7 +1,9 @@
 # BNCC Website Project - GitReady 2.0
 
 ## Visualisasi
-*(Tambahkan link gambar screenshot halaman web kamu di sini atau upload gambar ke repository)*
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7b8d5bc4-5764-49c3-8e1b-cd25f72d54c9" />
+<img width="936" height="972" alt="image" src="https://github.com/user-attachments/assets/378b6a0b-86d8-494c-bd85-a359b9654702" />
+
 
 ## Tech Stack
 - HTML5
