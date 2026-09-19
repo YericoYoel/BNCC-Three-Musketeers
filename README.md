@@ -4,6 +4,8 @@
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7b8d5bc4-5764-49c3-8e1b-cd25f72d54c9" />
 <img width="936" height="972" alt="image" src="https://github.com/user-attachments/assets/378b6a0b-86d8-494c-bd85-a359b9654702" />
 <img width="646" height="665" alt="image" src="https://github.com/user-attachments/assets/5ad70853-59b8-4356-928b-b9eaa99eeacc" />
+<img width="957" height="792" alt="image" src="https://github.com/user-attachments/assets/e924b74f-490e-4a4b-9527-6861908b8224" />
+
 
 
 ## Tech Stack
