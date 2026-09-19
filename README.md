@@ -19,7 +19,7 @@
 
 ## Contribution
 - **Yerico Yoel Leonardo Moelyadi (Project Initiator):** Inisialisasi repository, setup file HTML awal, dan manajemen project.
-- **Daniello Nevan Ferrando (Styling Engineer):** Membuat stylesheet `style.css` dan integrasi antarmuka.
+- **Daniello Nevan Ferrando Purnama (Styling Engineer):** Membuat stylesheet `style.css` dan integrasi antarmuka.
 - **Shawn Orleans Setiady (Script Engineer):** Membuat logika interaktif pada `script.js` dan integrasi skrip.
 
 ## What I Learned
